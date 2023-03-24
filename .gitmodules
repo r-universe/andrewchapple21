@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PieceExpIntensity"]
+	path = PieceExpIntensity
+	url = https://github.com/cran/PieceExpIntensity
+	shallow = true
+	registered = true
